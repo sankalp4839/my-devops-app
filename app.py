@@ -1,5 +1,5 @@
 # a) basic flask app -> b) containerize it ->c) automate the build (using git) ->d) deploy to cloud (AWS EC2)
-
+#change for jenkins
 from flask import Flask
 app =Flask(__name__)
 
